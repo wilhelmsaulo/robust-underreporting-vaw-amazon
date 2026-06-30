@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+Thumbs.db
+
+# Restricted or local data
+data/raw/
+data/external/
+private/
+secrets/
+
+# Temporary and generated files
+temp/
+logs/
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+
+# Large numerical intermediates
+*.npy
+*.npz
