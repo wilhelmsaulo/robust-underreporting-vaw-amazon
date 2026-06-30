@@ -1,0 +1,24 @@
+{
+  "institutional_weighting_schemes": [
+    "baseline_30_60_10",
+    "equal_indicators",
+    "service_emphasis",
+    "governance_emphasis"
+  ],
+  "visibility_compositions": [
+    "recurrent_three_categories",
+    "sexual_violence_two_categories",
+    "four_categories_including_feminicide"
+  ],
+  "institutional_fragility_percentiles": [0.67, 0.70, 0.75],
+  "low_visibility_percentiles": [0.25, 0.33, 0.40],
+  "minimum_low_visibility_years": [2, 3],
+  "analytical_period": [2022, 2023, 2024, 2025],
+  "total_scenarios": 216,
+  "robustness_classes_percent": {
+    "no_robust_signal": [0, 10],
+    "weak": [10, 30],
+    "moderate": [30, 60],
+    "strong": [60, 100]
+  }
+}
