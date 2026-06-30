@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and this repository."
+title: "Robust Multicriteria Decision Support for Identifying Potential Underreporting of Violence Against Women"
+version: 0.1.0
+type: software
+authors:
+  - family-names: Costa
+    given-names: Saulo William da Silva
+repository-code: "https://github.com/wilhelmsaulo/robust-underreporting-vaw-amazon"
+date-released: "2026-06-30"
+license: MIT
