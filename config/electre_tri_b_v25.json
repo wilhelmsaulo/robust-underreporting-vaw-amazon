@@ -1,0 +1,32 @@
+{
+  "method_name": "Classical ELECTRE TRI-B complementary validation",
+  "criteria": [
+    "institutional_fragility_percentile",
+    "low_reporting_visibility_percentile",
+    "territorial_barrier_percentile"
+  ],
+  "class_labels": ["Low", "Moderate", "High", "Very high"],
+  "baseline": {
+    "weights": [0.3333333333, 0.3333333333, 0.3333333334],
+    "profile_scheme": "selective_empirical_standing",
+    "threshold_scheme": "baseline",
+    "lambda": 0.70
+  },
+  "profile_schemes": {
+    "inclusive": [0.40, 0.60, 0.75],
+    "selective_empirical_standing": [0.50, 0.67, 0.80],
+    "stringent": [0.60, 0.75, 0.90]
+  },
+  "threshold_schemes": {
+    "narrow": {"q": 0.03, "p": 0.10, "v": 0.30},
+    "baseline": {"q": 0.05, "p": 0.15, "v": 0.40},
+    "wide": {"q": 0.08, "p": 0.20, "v": 0.50}
+  },
+  "weight_schemes": {
+    "equal": [0.3333333333, 0.3333333333, 0.3333333334],
+    "institutional_emphasis": [0.45, 0.30, 0.25],
+    "visibility_emphasis": [0.30, 0.45, 0.25],
+    "territorial_emphasis": [0.30, 0.25, 0.45]
+  },
+  "lambda_values": [0.65, 0.70, 0.75]
+}
