@@ -1,0 +1,43 @@
+{
+  "municipalities": 144,
+  "analytical_scenarios": 216,
+  "scenario_robustness_distribution": {
+    "no_robust_signal": 122,
+    "weak": 2,
+    "moderate": 5,
+    "strong": 15
+  },
+  "principal_group": [
+    "Alenquer",
+    "Mojuí dos Campos",
+    "Jacareacanga",
+    "Limoeiro do Ajuru"
+  ],
+  "expanded_group": [
+    "Bannach",
+    "Capitão Poço",
+    "Dom Eliseu",
+    "São Domingos do Araguaia",
+    "Viseu",
+    "Santa Cruz do Arari",
+    "Piçarra"
+  ],
+  "pareto_front_1": [
+    "Alenquer",
+    "Jacareacanga",
+    "Óbidos"
+  ],
+  "electre_sensitivity_specifications": 108,
+  "electre_baseline_distribution": {
+    "Low": 91,
+    "Moderate": 27,
+    "High": 16,
+    "Very high": 10
+  },
+  "electre_exact_class_stable": 44,
+  "three_method_convergence": [
+    "Alenquer",
+    "Jacareacanga"
+  ],
+  "interpretation": "Screening and decision-support results only; the outputs do not prove underreporting or estimate hidden incidence."
+}
