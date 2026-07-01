@@ -1,0 +1,6 @@
+factor,factor_label,n_levels,range_in_mean_number_flagged,mean_municipal_conditional_range_pp,median_municipal_conditional_range_pp,max_municipal_conditional_range_pp,municipalities_with_any_change
+especificacao_visibilidade,Visibility composition,3,4.0,5.902777777777779,0.0,100.0,18
+quantil_baixa_visibilidade,Low-visibility threshold,3,7.833333333333332,5.439814814814815,0.0,100.0,18
+min_anos_baixa_visibilidade,Persistence rule,2,4.444444444444445,3.0864197530864192,0.0,66.66666666666666,15
+cenario_ici,Institutional weighting scheme,4,0.0,0.0,0.0,0.0,0
+quantil_fragilidade,Institutional-fragility threshold,3,0.0,0.0,0.0,0.0,0
