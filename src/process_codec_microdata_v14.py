@@ -41,8 +41,8 @@ def read_reference() -> dict[str, tuple[str, str]]:
     code_col = code_cols[0]
     mapping = {norm(row[name_col]): (row[code_col], row[name_col]) for row in rows}
     aliases = {
-        'PAU D ARCO': 'PAU D’ARCO',
-        'PAU DARCO': 'PAU D’ARCO',
+        'PAU D ARCO': "PAU D'ARCO",
+        'PAU DARCO': "PAU D'ARCO",
         'MOJUI DOS CAMPOS': 'MOJUÍ DOS CAMPOS',
         'ELDORADO DOS CARAJAS': 'ELDORADO DO CARAJÁS',
     }
