@@ -1,0 +1,145 @@
+codigo_ibge,municipio,electre_baseline_label,electre_class_min,electre_class_max,electre_class_median,electre_high_or_very_high_pct,electre_very_high_pct,electre_stable_class,three_method_convergence,two_or_more_method_convergence
+1500404,Alenquer,Very high,3,3,3.0,100.0,100.0,Stable,True,True
+1501253,Bannach,Very high,2,3,3.0,100.0,89.814815,Variable,False,True
+1504752,Mojuí dos Campos,Very high,3,3,3.0,100.0,100.0,Stable,False,True
+1502301,Capitão Poço,Very high,2,3,3.0,100.0,82.407407,Variable,False,True
+1502939,Dom Eliseu,Very high,2,3,3.0,100.0,79.62963,Variable,False,True
+1503754,Jacareacanga,Very high,2,3,3.0,100.0,88.888889,Variable,True,True
+1507151,São Domingos do Araguaia,Very high,2,3,3.0,100.0,57.407407,Variable,False,True
+1508308,Viseu,Very high,2,3,3.0,100.0,78.703704,Variable,False,True
+1506401,Santa Cruz do Arari,Very high,2,3,3.0,100.0,56.481481,Variable,False,True
+1504000,Limoeiro do Ajuru,Very high,2,3,3.0,100.0,88.888889,Variable,False,True
+1505635,Piçarra,High,1,3,3.0,95.37037,58.333333,Variable,False,True
+1505437,Ourilândia do Norte,High,1,3,3.0,95.37037,58.333333,Variable,False,False
+1506005,Prainha,High,1,3,3.0,94.444444,56.481481,Variable,False,False
+1508084,Tucumã,High,1,3,3.0,93.518519,55.555556,Variable,False,False
+1506195,Rurópolis,High,1,3,2.0,93.518519,37.962963,Variable,False,False
+1506559,Santa Luzia do Pará,High,1,3,2.0,93.518519,47.222222,Variable,False,False
+1505551,Pau DArco,High,1,3,2.0,91.666667,45.37037,Variable,False,False
+1504802,Monte Alegre,High,1,3,2.0,89.814815,47.222222,Variable,False,True
+1504059,Mãe do Rio,High,1,3,2.0,87.962963,46.296296,Variable,False,True
+1506609,Santa Maria do Pará,High,1,3,2.0,80.555556,44.444444,Variable,False,True
+1504109,Magalhães Barata,High,1,3,2.0,78.703704,12.037037,Variable,False,True
+1501451,Belterra,High,1,3,2.0,78.703704,40.740741,Variable,False,False
+1505650,Placas,High,1,3,2.0,75.925926,35.185185,Variable,False,False
+1500347,Água Azul do Norte,High,1,3,2.0,74.074074,7.407407,Variable,False,False
+1505403,Ourém,High,1,3,2.0,66.666667,9.259259,Variable,False,True
+1501006,Aveiro,High,1,3,2.0,59.259259,0.925926,Variable,False,False
+1505494,Palestina do Pará,Moderate,0,3,2.0,71.296296,23.148148,Variable,False,False
+1503093,Goianésia do Pará,Moderate,0,3,2.0,62.037037,25.0,Variable,False,False
+1502905,Curuçá,Moderate,0,3,2.0,52.777778,18.518519,Variable,False,False
+1503309,Igarapé-Miri,Moderate,0,3,2.0,50.925926,5.555556,Variable,False,False
+1501600,Bonito,Moderate,0,3,1.0,47.222222,0.925926,Variable,False,False
+1502103,Cametá,Moderate,0,3,1.0,46.296296,0.925926,Variable,False,False
+1503507,Irituia,Moderate,0,3,1.0,41.666667,13.888889,Variable,False,False
+1505007,Nova Timboteua,Moderate,0,3,1.0,38.888889,12.962963,Variable,False,False
+1507466,São João da Ponta,Moderate,0,3,1.0,38.888889,10.185185,Variable,False,False
+1501576,Bom Jesus do Tocantins,Moderate,0,3,1.0,35.185185,11.111111,Variable,False,False
+1508159,Uruará,Moderate,0,3,1.0,33.333333,9.259259,Variable,False,False
+1505486,Pacajá,Moderate,0,3,1.0,32.407407,5.555556,Variable,False,False
+1505106,Óbidos,Moderate,0,3,1.0,27.777778,4.62963,Variable,False,False
+1504950,Nova Esperança do Piriá,Moderate,0,2,1.0,25.0,0.0,Variable,False,False
+1502764,Cumaru do Norte,Moderate,0,2,1.0,25.0,0.0,Variable,False,False
+1507409,São Francisco do Pará,Moderate,0,2,1.0,22.222222,0.0,Variable,False,False
+1501758,Brejo Grande do Araguaia,Moderate,0,2,1.0,21.296296,0.0,Variable,False,False
+1503200,Igarapé-Açu,Moderate,0,2,1.0,19.444444,0.0,Variable,False,False
+1501105,Bagre,Moderate,0,2,1.0,14.814815,0.0,Variable,False,False
+1504604,Mocajuba,Moderate,0,2,1.0,10.185185,0.0,Variable,False,False
+1505809,Portel,Moderate,0,2,1.0,9.259259,0.0,Variable,False,False
+1503077,Garrafão do Norte,Moderate,0,2,1.0,9.259259,0.0,Variable,False,False
+1506500,Santa Izabel do Pará,Moderate,0,2,1.0,9.259259,0.0,Variable,False,False
+1506104,Primavera,Moderate,0,2,1.0,1.851852,0.0,Variable,False,False
+1507961,Terra Alta,Moderate,0,2,1.0,0.925926,0.0,Variable,False,False
+1506112,Quatipuru,Moderate,0,1,1.0,0.0,0.0,Variable,False,False
+1504422,Marituba,Moderate,0,1,1.0,0.0,0.0,Variable,False,False
+1507474,São João de Pirabas,Low,0,2,1.0,18.518519,0.0,Variable,False,False
+1504455,Medicilândia,Low,0,2,1.0,16.666667,0.0,Variable,False,False
+1506138,Redenção,Low,0,2,1.0,16.666667,0.0,Variable,False,False
+1507508,São João do Araguaia,Low,0,2,1.0,16.666667,0.0,Variable,False,False
+1502772,Curionópolis,Low,0,2,1.0,16.666667,0.0,Variable,False,False
+1508050,Trairão,Low,0,2,1.0,15.740741,0.0,Variable,False,False
+1501204,Baião,Low,0,2,0.0,13.888889,0.0,Variable,False,False
+1500909,Augusto Corrêa,Low,0,2,0.0,13.888889,0.0,Variable,False,False
+1507201,São Domingos do Capim,Low,0,2,0.0,11.111111,0.0,Variable,False,False
+1505502,Paragominas,Low,0,2,0.0,10.185185,0.0,Variable,False,False
+1500305,Afuá,Low,0,2,1.0,10.185185,0.0,Variable,False,False
+1504307,Maracanã,Low,0,2,0.0,8.333333,0.0,Variable,False,False
+1504406,Marapanim,Low,0,2,1.0,6.481481,0.0,Variable,False,False
+1505601,Peixe-Boi,Low,0,2,0.0,5.555556,0.0,Variable,False,False
+1506187,Rondon do Pará,Low,0,2,0.0,5.555556,0.0,Variable,False,False
+1501725,Brasil Novo,Low,0,2,0.0,4.62963,0.0,Variable,False,False
+1507300,São Félix do Xingu,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1500602,Altamira,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1507979,Terra Santa,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1503903,Juruti,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1500859,Anapu,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1500131,Abel Figueiredo,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1507458,São Geraldo do Araguaia,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1507706,São Sebastião da Boa Vista,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1506203,Salinópolis,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1508001,Tomé-Açu,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1507805,Senador José Porfírio,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1508100,Tucuruí,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1505700,Ponta de Pedras,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1507755,Sapucaia,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1507607,São Miguel do Guamá,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1506708,Santana do Araguaia,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1504901,Muaná,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1504505,Melgaço,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1502806,Curralinho,Low,0,1,1.0,0.0,0.0,Variable,False,False
+1502756,Concórdia do Pará,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1506906,Santarém Novo,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1502400,Castanhal,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1501709,Bragança,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1507003,Santo Antônio do Tauá,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1500800,Ananindeua,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1501303,Barcarena,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1501501,Benevides,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1500107,Abaetetuba,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1500206,Acará,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1500503,Almeirim,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1500701,Anajás,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1500958,Aurora do Pará,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1501402,Belém,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1501782,Breu Branco,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1501808,Breves,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1501907,Bujaru,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1502004,Cachoeira do Arari,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1501956,Cachoeira do Piriá,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1502152,Canaã dos Carajás,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1502202,Capanema,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1502509,Chaves,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1502608,Colares,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1502707,Conceição do Araguaia,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1502855,Curuá,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1502954,Eldorado do Carajás,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1503002,Faro,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1503044,Floresta do Araguaia,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1503101,Gurupá,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1503408,Inhangapi,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1503457,Ipixuna do Pará,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1503606,Itaituba,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1503705,Itupiranga,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1503804,Jacundá,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1504208,Marabá,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1504703,Moju,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1504976,Nova Ipixuna,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1505031,Novo Progresso,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1505064,Novo Repartimento,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1505205,Oeiras do Pará,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1505304,Oriximiná,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1505536,Parauapebas,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1505908,Porto de Moz,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1506161,Rio Maria,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1506302,Salvaterra,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1506351,Santa Bárbara do Pará,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1506583,Santa Maria das Barreiras,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1506807,Santarém,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1507904,Soure,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1507102,São Caetano de Odivelas,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1507953,Tailândia,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1508035,Tracuateua,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1508126,Ulianópolis,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1508209,Vigia,Low,0,1,0.0,0.0,0.0,Variable,False,False
+1508357,Vitória do Xingu,Low,0,0,0.0,0.0,0.0,Stable,False,False
+1508407,Xinguara,Low,0,0,0.0,0.0,0.0,Stable,False,False
