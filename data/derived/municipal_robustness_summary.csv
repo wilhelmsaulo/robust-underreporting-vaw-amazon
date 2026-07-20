@@ -1,0 +1,145 @@
+codigo_ibge,municipio,cenarios_sinalizados,total_cenarios,frequencia_sinal_pct,classificacao_robustez,ranking_robustez
+1500404,Alenquer,216,216,100.0,Sinal forte,1
+1501253,Bannach,216,216,100.0,Sinal forte,2
+1502905,Curuçá,216,216,100.0,Sinal forte,3
+1505007,Nova Timboteua,216,216,100.0,Sinal forte,4
+1504752,Mojuí dos Campos,204,216,94.44444444444444,Sinal forte,5
+1502301,Capitão Poço,192,216,88.88888888888889,Sinal forte,6
+1502939,Dom Eliseu,192,216,88.88888888888889,Sinal forte,7
+1506609,Santa Maria do Pará,180,216,83.33333333333334,Sinal forte,8
+1503754,Jacareacanga,168,216,77.77777777777779,Sinal forte,9
+1507151,São Domingos do Araguaia,168,216,77.77777777777779,Sinal forte,10
+1506401,Santa Cruz do Arari,156,216,72.22222222222221,Sinal forte,11
+1508308,Viseu,156,216,72.22222222222221,Sinal forte,12
+1504000,Limoeiro do Ajuru,144,216,66.66666666666666,Sinal forte,13
+1504059,Mãe do Rio,144,216,66.66666666666666,Sinal forte,14
+1505635,Piçarra,132,216,61.11111111111112,Sinal forte,15
+1507466,São João da Ponta,120,216,55.55555555555556,Sinal moderado,16
+1501600,Bonito,72,216,33.33333333333333,Sinal moderado,17
+1504109,Magalhães Barata,72,216,33.33333333333333,Sinal moderado,18
+1504802,Monte Alegre,72,216,33.33333333333333,Sinal moderado,19
+1505403,Ourém,72,216,33.33333333333333,Sinal moderado,20
+1505494,Palestina do Pará,36,216,16.666666666666664,Sinal fraco,21
+1506005,Prainha,36,216,16.666666666666664,Sinal fraco,22
+1507961,Terra Alta,12,216,5.555555555555555,Sem sinal robusto,23
+1500107,Abaetetuba,0,216,0.0,Sem sinal robusto,24
+1500131,Abel Figueiredo,0,216,0.0,Sem sinal robusto,25
+1500206,Acará,0,216,0.0,Sem sinal robusto,26
+1500305,Afuá,0,216,0.0,Sem sinal robusto,27
+1500503,Almeirim,0,216,0.0,Sem sinal robusto,28
+1500602,Altamira,0,216,0.0,Sem sinal robusto,29
+1500701,Anajás,0,216,0.0,Sem sinal robusto,30
+1500800,Ananindeua,0,216,0.0,Sem sinal robusto,31
+1500859,Anapu,0,216,0.0,Sem sinal robusto,32
+1500909,Augusto Corrêa,0,216,0.0,Sem sinal robusto,33
+1500958,Aurora do Pará,0,216,0.0,Sem sinal robusto,34
+1501006,Aveiro,0,216,0.0,Sem sinal robusto,35
+1501105,Bagre,0,216,0.0,Sem sinal robusto,36
+1501204,Baião,0,216,0.0,Sem sinal robusto,37
+1501303,Barcarena,0,216,0.0,Sem sinal robusto,38
+1501451,Belterra,0,216,0.0,Sem sinal robusto,39
+1501402,Belém,0,216,0.0,Sem sinal robusto,40
+1501501,Benevides,0,216,0.0,Sem sinal robusto,41
+1501576,Bom Jesus do Tocantins,0,216,0.0,Sem sinal robusto,42
+1501709,Bragança,0,216,0.0,Sem sinal robusto,43
+1501725,Brasil Novo,0,216,0.0,Sem sinal robusto,44
+1501758,Brejo Grande do Araguaia,0,216,0.0,Sem sinal robusto,45
+1501782,Breu Branco,0,216,0.0,Sem sinal robusto,46
+1501808,Breves,0,216,0.0,Sem sinal robusto,47
+1501907,Bujaru,0,216,0.0,Sem sinal robusto,48
+1502004,Cachoeira do Arari,0,216,0.0,Sem sinal robusto,49
+1501956,Cachoeira do Piriá,0,216,0.0,Sem sinal robusto,50
+1502103,Cametá,0,216,0.0,Sem sinal robusto,51
+1502152,Canaã dos Carajás,0,216,0.0,Sem sinal robusto,52
+1502202,Capanema,0,216,0.0,Sem sinal robusto,53
+1502400,Castanhal,0,216,0.0,Sem sinal robusto,54
+1502509,Chaves,0,216,0.0,Sem sinal robusto,55
+1502608,Colares,0,216,0.0,Sem sinal robusto,56
+1502707,Conceição do Araguaia,0,216,0.0,Sem sinal robusto,57
+1502756,Concórdia do Pará,0,216,0.0,Sem sinal robusto,58
+1502764,Cumaru do Norte,0,216,0.0,Sem sinal robusto,59
+1502772,Curionópolis,0,216,0.0,Sem sinal robusto,60
+1502806,Curralinho,0,216,0.0,Sem sinal robusto,61
+1502855,Curuá,0,216,0.0,Sem sinal robusto,62
+1502954,Eldorado do Carajás,0,216,0.0,Sem sinal robusto,63
+1503002,Faro,0,216,0.0,Sem sinal robusto,64
+1503044,Floresta do Araguaia,0,216,0.0,Sem sinal robusto,65
+1503077,Garrafão do Norte,0,216,0.0,Sem sinal robusto,66
+1503093,Goianésia do Pará,0,216,0.0,Sem sinal robusto,67
+1503101,Gurupá,0,216,0.0,Sem sinal robusto,68
+1503200,Igarapé-Açu,0,216,0.0,Sem sinal robusto,69
+1503309,Igarapé-Miri,0,216,0.0,Sem sinal robusto,70
+1503408,Inhangapi,0,216,0.0,Sem sinal robusto,71
+1503457,Ipixuna do Pará,0,216,0.0,Sem sinal robusto,72
+1503507,Irituia,0,216,0.0,Sem sinal robusto,73
+1503606,Itaituba,0,216,0.0,Sem sinal robusto,74
+1503705,Itupiranga,0,216,0.0,Sem sinal robusto,75
+1503804,Jacundá,0,216,0.0,Sem sinal robusto,76
+1503903,Juruti,0,216,0.0,Sem sinal robusto,77
+1504208,Marabá,0,216,0.0,Sem sinal robusto,78
+1504307,Maracanã,0,216,0.0,Sem sinal robusto,79
+1504406,Marapanim,0,216,0.0,Sem sinal robusto,80
+1504422,Marituba,0,216,0.0,Sem sinal robusto,81
+1504455,Medicilândia,0,216,0.0,Sem sinal robusto,82
+1504505,Melgaço,0,216,0.0,Sem sinal robusto,83
+1504604,Mocajuba,0,216,0.0,Sem sinal robusto,84
+1504703,Moju,0,216,0.0,Sem sinal robusto,85
+1504901,Muaná,0,216,0.0,Sem sinal robusto,86
+1504950,Nova Esperança do Piriá,0,216,0.0,Sem sinal robusto,87
+1504976,Nova Ipixuna,0,216,0.0,Sem sinal robusto,88
+1505031,Novo Progresso,0,216,0.0,Sem sinal robusto,89
+1505064,Novo Repartimento,0,216,0.0,Sem sinal robusto,90
+1505205,Oeiras do Pará,0,216,0.0,Sem sinal robusto,91
+1505304,Oriximiná,0,216,0.0,Sem sinal robusto,92
+1505437,Ourilândia do Norte,0,216,0.0,Sem sinal robusto,93
+1505486,Pacajá,0,216,0.0,Sem sinal robusto,94
+1505502,Paragominas,0,216,0.0,Sem sinal robusto,95
+1505536,Parauapebas,0,216,0.0,Sem sinal robusto,96
+1505551,Pau DArco,0,216,0.0,Sem sinal robusto,97
+1505601,Peixe-Boi,0,216,0.0,Sem sinal robusto,98
+1505650,Placas,0,216,0.0,Sem sinal robusto,99
+1505700,Ponta de Pedras,0,216,0.0,Sem sinal robusto,100
+1505809,Portel,0,216,0.0,Sem sinal robusto,101
+1505908,Porto de Moz,0,216,0.0,Sem sinal robusto,102
+1506104,Primavera,0,216,0.0,Sem sinal robusto,103
+1506112,Quatipuru,0,216,0.0,Sem sinal robusto,104
+1506138,Redenção,0,216,0.0,Sem sinal robusto,105
+1506161,Rio Maria,0,216,0.0,Sem sinal robusto,106
+1506187,Rondon do Pará,0,216,0.0,Sem sinal robusto,107
+1506195,Rurópolis,0,216,0.0,Sem sinal robusto,108
+1506203,Salinópolis,0,216,0.0,Sem sinal robusto,109
+1506302,Salvaterra,0,216,0.0,Sem sinal robusto,110
+1506351,Santa Bárbara do Pará,0,216,0.0,Sem sinal robusto,111
+1506500,Santa Izabel do Pará,0,216,0.0,Sem sinal robusto,112
+1506559,Santa Luzia do Pará,0,216,0.0,Sem sinal robusto,113
+1506583,Santa Maria das Barreiras,0,216,0.0,Sem sinal robusto,114
+1506708,Santana do Araguaia,0,216,0.0,Sem sinal robusto,115
+1506807,Santarém,0,216,0.0,Sem sinal robusto,116
+1506906,Santarém Novo,0,216,0.0,Sem sinal robusto,117
+1507003,Santo Antônio do Tauá,0,216,0.0,Sem sinal robusto,118
+1507755,Sapucaia,0,216,0.0,Sem sinal robusto,119
+1507805,Senador José Porfírio,0,216,0.0,Sem sinal robusto,120
+1507904,Soure,0,216,0.0,Sem sinal robusto,121
+1507102,São Caetano de Odivelas,0,216,0.0,Sem sinal robusto,122
+1507201,São Domingos do Capim,0,216,0.0,Sem sinal robusto,123
+1507409,São Francisco do Pará,0,216,0.0,Sem sinal robusto,124
+1507300,São Félix do Xingu,0,216,0.0,Sem sinal robusto,125
+1507458,São Geraldo do Araguaia,0,216,0.0,Sem sinal robusto,126
+1507474,São João de Pirabas,0,216,0.0,Sem sinal robusto,127
+1507508,São João do Araguaia,0,216,0.0,Sem sinal robusto,128
+1507607,São Miguel do Guamá,0,216,0.0,Sem sinal robusto,129
+1507706,São Sebastião da Boa Vista,0,216,0.0,Sem sinal robusto,130
+1507953,Tailândia,0,216,0.0,Sem sinal robusto,131
+1507979,Terra Santa,0,216,0.0,Sem sinal robusto,132
+1508001,Tomé-Açu,0,216,0.0,Sem sinal robusto,133
+1508035,Tracuateua,0,216,0.0,Sem sinal robusto,134
+1508050,Trairão,0,216,0.0,Sem sinal robusto,135
+1508084,Tucumã,0,216,0.0,Sem sinal robusto,136
+1508100,Tucuruí,0,216,0.0,Sem sinal robusto,137
+1508126,Ulianópolis,0,216,0.0,Sem sinal robusto,138
+1508159,Uruará,0,216,0.0,Sem sinal robusto,139
+1508209,Vigia,0,216,0.0,Sem sinal robusto,140
+1508357,Vitória do Xingu,0,216,0.0,Sem sinal robusto,141
+1508407,Xinguara,0,216,0.0,Sem sinal robusto,142
+1500347,Água Azul do Norte,0,216,0.0,Sem sinal robusto,143
+1505106,Óbidos,0,216,0.0,Sem sinal robusto,144
