@@ -1,0 +1,13 @@
+scope,metric,value
+public_baseline_fragility,municipalities,144
+public_baseline_fragility,minimum,19.35714285714286
+public_baseline_fragility,mean,82.65203373015868
+public_baseline_fragility,maximum,100.0
+public_baseline_fragility,distinct_values,47
+public_baseline_fragility,municipalities_equal_100,48
+threshold_q0.67,cutoff,98.9957142857143
+threshold_q0.67,municipalities_passing,48
+threshold_q0.70,cutoff,100.0
+threshold_q0.70,municipalities_passing,48
+threshold_q0.75,cutoff,100.0
+threshold_q0.75,municipalities_passing,48
